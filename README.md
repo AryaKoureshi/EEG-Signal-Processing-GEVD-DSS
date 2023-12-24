@@ -4,6 +4,25 @@ This repository contains my project focused on exploring and implementing Genera
 **Description:**
 This repository contains my project focused on exploring and implementing Generalized Eigenvalue Decomposition (GEVD) and Denoising Source Separation (DSS) methods in signal processing. 
 
+### Some Results:
+#### Original Signal
+
+<p align=center>
+  <img width="70%" src="Original.png">
+</p>
+
+#### Noisy Signal
+
+<p align=center>
+  <img width="70%" src="Noisy.png">
+</p>
+
+#### Denoised Signal
+
+<p align=center>
+  <img width="70%" src="Denoised.png">
+</p>
+
 **Key Highlights:**
 
 1. **GEVD Implementation:** The repository includes a detailed implementation of the GEVD method, showcasing its utility in blind source separation. This method is particularly explored for scenarios with limited information about the source signals or the mixing process.
